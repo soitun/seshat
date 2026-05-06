@@ -1,3 +1,11 @@
+# NOTICE: THIS IS UNMAINTAINED
+
+I haven't committed to this project in nearly 15 years. Another developer asked for [permission to use the name](https://github.com/pypi/support/issues/10080) for a [cool, current project](https://codeberg.org/seshat/seshat) and I granted it.
+
+_This_ Seshat doesn't run under Python 3.x. It's exceptionally unlikely that anyone is still regularly running `pip install seshat` to install it into a regularly-updated Python 2 project. If you're that one person in world doing that, this is my apology to you. I recommend you vendor this repo into your own. It's not going to get further updates that you'd be missing.
+
+___
+
 Seshat is a realtime chat system for web applications. It consists of
 several components:
 
